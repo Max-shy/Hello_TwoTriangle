@@ -1,4 +1,4 @@
-# Hell0_TwoTriangle
+# Hello_TwoTriangle
 OpenGL_02不同方法绘出两个三角形
 
 通过三种不同形式完成绘出两个相连的三角形
